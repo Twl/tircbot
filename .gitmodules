@@ -1,0 +1,3 @@
+[submodule "dependencies/tirc"]
+	path = dependencies/tirc
+	url = https://github.com/Twl/tirc
